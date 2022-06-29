@@ -1,1 +1,1 @@
-# -CecilieMari-Monsen-js1-resit
+JavaScript 1 Course Assignment files
